@@ -1,0 +1,11 @@
+fastapi
+sqlalchemy
+psycopg2-binary
+python-jose[cryptography]
+passlib[bcrypt]
+python-multipart
+pydantic[email]
+pydantic-settings
+python-dotenv
+geoalchemy2
+geopy
